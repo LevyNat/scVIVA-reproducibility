@@ -1,0 +1,12 @@
+numpy
+pandas
+scanpy
+torch
+pytorch_lightning
+tqdm
+scvi-tools<=0.16.2,>=0.15.0
+scikit-learn
+scipy
+statsmodels
+anndata
+torch_geometric

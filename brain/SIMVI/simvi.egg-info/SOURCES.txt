@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+simvi.egg-info/PKG-INFO
+simvi.egg-info/SOURCES.txt
+simvi.egg-info/dependency_links.txt
+simvi.egg-info/requires.txt
+simvi.egg-info/top_level.txt
